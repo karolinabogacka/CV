@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png"><br/>
+    <img alt="Vue logo" src="../assets/Foto.jpg"><br/>
     <h1><i><b>Karolina Bogacka</b></i></h1><br/>
     <b>Miasto:</b> Gdańsk<br/>
     <b>Email:</b> kbogacka1@wp.pl<br/>
