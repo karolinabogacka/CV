@@ -8,10 +8,6 @@
       <h2>{{ testingExperienceTitle }}</h2>
       <p v-for="(item, index) in testingExperience" :key="index"><b>{{ index + 1 }})</b> {{ item }}</p>
     </section>
-    <section>
-      <h3>LinkedIn</h3>
-      <a href="https://www.linkedin.com/in/karolina-bogacka-289292163/" target="_blank" rel="noopener">Link</a>
-    </section>
   </div>
 </template>
 

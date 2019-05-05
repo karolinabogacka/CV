@@ -15,8 +15,16 @@
     <section>
       <p>Uwielbiam książki, dobre filmy, motoryzację oraz spędzanie czasu na łonie natury.</p>
     </section>
+    <Header/>
   </div>
 </template>
+
+<script>
+// @ is an alias to /src
+export default {
+  name: 'About'
+}
+</script>
 
 <style scoped lang="scss">
 section {
