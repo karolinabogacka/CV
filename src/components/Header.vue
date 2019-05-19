@@ -4,7 +4,7 @@
     <h1><i><b>Karolina Bogacka</b></i></h1><br/>
     <b>Miasto:</b> Gdańsk<br/>
     <b>Email:</b> kbogacka1@wp.pl<br/>
-    <i><b>Telefon:</b> 535 365 341</i><br/>
+    <b>Telefon:</b> 535 365 341<br/>
     <p>Poszukuję pierwszej pracy/stażu (także bez płatnego)/praktyk, na stanowisku Junior Software Manual Tester</p>
   </div>
 </template>

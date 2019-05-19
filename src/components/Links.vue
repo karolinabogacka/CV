@@ -1,8 +1,9 @@
 <template>
   <div class="hello">
     <section>
-      <h3>LinkedIn</h3>
-      <a href="https://www.linkedin.com/in/karolina-bogacka-289292163/" target="_blank" rel="noopener">Link</a>
+      <h2>Links</h2>
+      <a href="https://www.linkedin.com/in/karolina-bogacka-289292163/" target="_blank" rel="noopener">LinkedIn</a>
+      <a href="https://github.com/karolinabogacka/CV" target="_blank" rel="noopener">GitHub</a>
     </section>
   </div>
 </template>
@@ -17,6 +18,13 @@ export default {
 <style scoped lang="scss">
 section {
   margin-bottom: 50px;
+}
+h1, h2, h3, h4 {
+  text-decoration: underline;
+}
+a {
+  display: block;
+  margin: 10px;
 }
 h3 {
   margin: 40px 0 0;
